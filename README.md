@@ -18,6 +18,10 @@
 
 충남대학교 동문 커뮤니티 개발자
 
+##### 2017.10.16. ~ 현재
+
+Github - grokking_algorithms contributor
+
 ## 교육 활동
 
 ### 강사 활동
