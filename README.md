@@ -140,16 +140,30 @@ Github - grokking_algorithms contributor
 
 전북 융복합 소프트웨어 페스티발 아이디어 공모전
 
-##### 2016.01.29
+##### 2016.01.29.
 
 스마트가전(홈) IoT 서비스 시나리오 공모전
 
-##### 2016.05.31
+##### 2016.05.31.
 
 제 3회 터치응용제품 아이디어 사업화 공모전
 
-##### 2016.06.30
+##### 2016.06.30.
 
 삼성 투모로우 솔루션
 
 ### 수료
+
+##### 2017.09.04.
+
+Web Application Development: Basic Concepts
+
+##### 2018.02.27.
+
+Purdue Foundry Firestarter Program
+
+Purdue Foundry Market Validation Program
+
+##### 2017.12 ~ 2018.02
+
+Intemational Scholar in Chungnam National/Purdue Program
