@@ -18,6 +18,8 @@
 
     - 칠사공 개발자
 
+    2017.06. ~ 2017.11
+    
     - 충남대학교 동문 커뮤니티 개발자
 
     
@@ -53,7 +55,7 @@
 
     - 충남대학교 컴퓨터공학과 'Github 특강' 강의
 
-### 퍼실리에이터 활동
+### 퍼실리테이터 활동
 
     2017.07.07.
 
@@ -80,7 +82,7 @@
     - 칠사공 '하루만에 만드는 웹페이지'
 
     
-    2017.07.26. ~ 2017.07.27.
+    2017.11.17 ~ 2017.11.19
 
     - 충남대학교 인재개발원 창업캠프 'Create New Unicorn'
 
@@ -107,7 +109,7 @@
     - 충남대학교 'SW융합소나타캠프'
 
     
-    2017.09.04. ~ 현재
+    2017.09.04. ~ 2017.12.18
 
     - 충남대학교 컴퓨터공학과 '시스템 프로그래밍'
 
@@ -193,3 +195,10 @@
     2017.12 ~ 2018.02
 
     - Intemational Scholar in Chungnam National/Purdue Program
+
+### 작성 논문
+
+    - Analysis of the Relationship Between Server Location and RTT at Client Level
+
+    - Packet Visualization Tool For Individuals
+
