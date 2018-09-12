@@ -23,9 +23,10 @@
     - 충남대학교 동문 커뮤니티 개발자
 
     
-    2017.10.16. ~ 현재
+    2017.10.16. ~ 2018.01.04
 
-    - Github - grokking_algorithms contributor
+    - grokking_algorithms contributor (https://github.com/egonSchiele/grokking_algorithms)
+
 
 ## 교육 활동
 
@@ -54,6 +55,7 @@
     2017.11.13.
 
     - 충남대학교 컴퓨터공학과 'Github 특강' 강의
+    
 
     2018.07.16. ~ 2018.08.06. 
 
