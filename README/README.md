@@ -28,6 +28,12 @@
     - grokking_algorithms contributor (https://github.com/egonSchiele/grokking_algorithms)
 
 
+    2018.07.09. ~ 2018.09.07
+
+    - DrawSomething Project
+    (https://github.com/eliceio/DrawSomething)
+
+
 ## 교육 활동
 
 ### 강사 활동
@@ -55,7 +61,7 @@
     2017.11.13.
 
     - 충남대학교 컴퓨터공학과 'Github 특강' 강의
-    
+
 
     2018.07.16. ~ 2018.08.06. 
 
