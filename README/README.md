@@ -179,6 +179,7 @@
     2018.09.07
 
     - 2018 대전 데이터 사이언티스트 아카데미 - 대상(1위)
+    (https://github.com/eliceio/DrawSomething)
 
 ### 참가
     2016.01.26.
