@@ -237,3 +237,6 @@
 
     - Packet Visualization Tool For Individuals
 
+### 자격증
+
+    - 정보처리기사
