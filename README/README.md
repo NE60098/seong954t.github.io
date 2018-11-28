@@ -32,6 +32,10 @@
 
     - DrawSomething Project
     (https://github.com/eliceio/DrawSomething)
+    
+    2018.09.01 ~ 현재
+    
+    - (주)쎄트렉아이 지상3팀 
 
 
 ## 교육 활동
